@@ -10,4 +10,6 @@
 - creating jwt token for authentication purpose
 - user controller and routes
 - login and sending back auth token
-- 
+- done with post api 
+- authetication done
+
